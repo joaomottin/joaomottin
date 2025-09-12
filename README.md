@@ -11,7 +11,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1250&color=A32F25&center=true&lines=Analysis+and+System+Development;Data+Scientist+in+Progress;Python+%7C+SQL+%7C+PowerBI;Welcome+to+my+Github!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1250&color=A32F25&center=true&lines=Analysis+and+System+Development;Data+Scientist+in+Progress...;Python+%7C+SQL+%7C+PowerBI;Welcome+to+my+Github!" alt="Typing SVG"/>
 </div>
 
 <br><br>
@@ -55,7 +55,7 @@
 
   [![E-Mail](https://img.shields.io/badge/Email-A32F25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:joaomottin@proton.me)
   [![Instagram](https://img.shields.io/badge/Instagram-A32F25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/joaomottin_/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-A32F25?style=for-the-badge&logo=linkedin&logoColor=fff)]((https://www.linkedin.com/in/joaopedromottin/)/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-A32F25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/joaopedromottin/)
   
 </div>
 
