@@ -11,7 +11,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com/demo/?font=Iosevka&pause=1250&color=A32F25&center=true&lines=Analysis+and+System+Development;Data+Scientist+in+Progress;Python+%7C+SQL+%7C+PowerBI;Welcome+to+my+Github!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1250&color=A32F25&center=true&lines=Analysis+and+System+Development;Data+Scientist+in+Progress;Python+%7C+SQL+%7C+PowerBI;Welcome+to+my+Github!" alt="Typing SVG"/>
 </div>
 
 <br><br>
