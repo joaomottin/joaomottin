@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=a20003"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A32F25"/>
 
 <br>
 
@@ -11,19 +11,18 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=a20003width=900&size=22&center=true&lines=I'm+a+Student+of+Analysis+and+Systems+Development;Data+Scientist+in+Progress;Python+ | +SQL+ | +Power BI+ | +HTML+ | + CSS+ | + JavaScript;Welcome+to+my+Github!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A32F25&width=900&size=22&center=true&lines=I'm+a+Student+of+Analysis+and+Systems+Development;Data+Scientist+in+Progress;Python+ | +SQL+ | +Power BI+ | +HTML+ | + CSS+ | + JavaScript;Welcome+to+my+Github!" alt="Typing SVG"/>
 </div>
 
 <br><br>
 
 <div align="center">
-  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=joaomottin&show_icons=true&count_private=true&rank_icon=github&font=Iosevka&bg_color=000712&text_color=f5f2ee3&title_color=a20003&icon_color=a20003&border_color=f5f2ee"/>
-  
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomottin&layout=compact&font=Iosevka&langs_count=16&bg_color=000712&text_color=f5f2ee&title_color=a20003&border_color=f5f2ee"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=joaomottin&show_icons=true&count_private=true&title_color=A32F25&rank_icon=github&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomottin&layout=compact&font=Iosevka&title_color=A32F25&langs_count=16"/>
   
 <br><br>
   
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomottin&bg_color=000712&text_color=f5f2ee&title_color=a20003&border_color=f5f2ee"/>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomottin&theme=dracula&title_color=A32F25&bg_color=000712"/>
 </div>
 
 <br>
@@ -52,25 +51,14 @@
   
 <br>
 
-##
-
-<br>
-
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:joaomottin@proton.me)
-  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/joaomottin/?next=%2F)
+  [![E-Mail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:joaomottin@proton.me)
+  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/joaomottin_/?next=%2F)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)]((https://www.linkedin.com/in/joaopedromottin/)/)
   
 </div>
 
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a20003&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A32F25&height=100&section=footer"/>
