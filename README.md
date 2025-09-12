@@ -11,19 +11,19 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=a20003width=900&size=22&center=true&lines=I'm+a+student      +of+Analysis+and+Systems+Development;Data+Scientist+in+Progress;Python+|+SQL+ | +Power BI+ | +HTML+|+ CSS+ |+ JavaScript;Welcome+to+my+Github!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=a20003width=900&size=22&center=true&lines=I'm+a+Student+of+Analysis+and+Systems+Development;Data+Scientist+in+Progress;Python+ | +SQL+ | +Power BI+ | +HTML+ | + CSS+ | + JavaScript;Welcome+to+my+Github!" alt="Typing SVG"/>
 </div>
 
 <br><br>
 
 <div align="center">
-  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=joaomottin&show_icons=true&count_private=true&rank_icon=github&font=Iosevka&bg_color=0d0d0d&text_color=a20003&title_color=a20003&icon_color=a20003&border_color=0d0d0d"/>
+  <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=joaomottin&show_icons=true&count_private=true&rank_icon=github&font=Iosevka&bg_color=000712&text_color=f5f2ee3&title_color=a20003&icon_color=a20003&border_color=f5f2ee"/>
   
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomottin&layout=compact&font=Iosevka&langs_count=16&bg_color=0d0d0d&text_color=a20003&title_color=a20003&border_color=0d0d0d"/>
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomottin&layout=compact&font=Iosevka&langs_count=16&bg_color=000712&text_color=f5f2ee&title_color=a20003&border_color=f5f2ee"/>
   
 <br><br>
   
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomottin&bg_color=0d0d0d&text_color=a20003&title_color=a20003&border_color=0d0d0d"/>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomottin&bg_color=000712&text_color=f5f2ee&title_color=a20003&border_color=f5f2ee"/>
 </div>
 
 <br>
@@ -72,13 +72,5 @@
 </div>
 
 </details>
-
-##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a20003&height=100&section=footer"/>
