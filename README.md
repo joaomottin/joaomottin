@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A32F25"/>
 
-<br>
-
 <div align="center">
   
   <samp>
@@ -14,8 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1250&color=A32F25&center=true&lines=Analysis+and+System+Development;Data+Scientist+in+Progress...;Python+%7C+SQL+%7C+PowerBI;Welcome+to+my+Github!" alt="Typing SVG"/>
 </div>
 
-<br><br>
-  
+<br>
+  <div align="center" width="100%">
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomottin&theme=aura_dark&title_color=A32F25&bg_color=000712&text_color=fffafa"/>
 </div>
 
