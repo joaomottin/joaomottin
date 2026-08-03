@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A32F25"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4B0082"/>
 
 <div align="center">
   
@@ -9,12 +9,12 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1250&color=A32F25&center=true&lines=Analysis+and+System+Development;Data+Scientist+in+Progress...;Python+%7C+SQL+%7C+PowerBI;Welcome+to+my+Github!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1250&color=4B0082&center=true&lines=Analysis+and+System+Development;Data+Scientist+in+Progress...;Python+%7C+SQL+%7C+PowerBI;Welcome+to+my+Github!" alt="Typing SVG"/>
 </div>
 
 <br>
   <div align="center" width="100%">
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomottin&theme=aura_dark&title_color=A32F25&bg_color=000712&text_color=fffafa"/>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomottin&theme=aura_dark&title_color=4B0082&bg_color=000712&text_color=fffafa"/>
 </div>
 
 <br><br>
@@ -38,4 +38,4 @@
 
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A32F25&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer"/>
