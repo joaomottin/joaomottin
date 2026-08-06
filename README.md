@@ -1,41 +1,48 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5A2890"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5A2890"
+  alt="Purple wave header"
+/>
 
-<div align="center">
-  
-  <samp>
-      <br>
-      Hi there! I'm <b>João Mottin</b>
-  </samp>
-</div>
+<h1 align="center">Hi, I'm João Mottin</h1>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1250&color=5A2890&center=true&lines=Analysis+and+System+Development;Data+Scientist+in+Progress...;Python+%7C+SQL+%7C+PowerBI;Welcome+to+my+Github!" alt="Typing SVG"/>
-</div>
+<p align="center">
+  <strong>Software Developer · Data Analytics · Automation</strong><br>
+  I build practical systems, data-driven tools, and automations that turn complex workflows into clear, reliable products.
+</p>
 
-<br>
-  <div align="center" width="100%">
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomottin&theme=aura_dark&title_color=5A2890&bg_color=000712&text_color=fffafa"/>
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&amp;pause=1250&amp;color=5A2890&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Systems+Analysis+%26+Development;Data+Analytics+Postgraduate;Python+%7C+SQL+%7C+Power+BI;Automation+%26+Full-Stack+Projects"
+    alt="Typing introduction"
+  />
+</p>
 
-<br><br>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomottin&amp;theme=aura_dark&amp;title_color=5A2890&amp;bg_color=000712&amp;text_color=fffafa"
+    alt="GitHub profile details"
+  />
+</p>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>Contact Info</b>
-      </samp>
-  </summary>
-  
-<br>
+<details align="center">
+  <summary><strong>Connect with me</strong></summary>
 
-<div align="center">
-
-  [![E-Mail](https://img.shields.io/badge/Email-A32F25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:joaomottin@proton.me)
-  [![Instagram](https://img.shields.io/badge/Instagram-A32F25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/joaomottin_/?next=%2F)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-A32F25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/joaopedromottin/)
-  
-</div>
-
+  <p align="center">
+    <a href="mailto:joaomottin@proton.me">
+      <img src="https://img.shields.io/badge/Email-5A2890?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.instagram.com/joaomottin_/">
+      <img src="https://img.shields.io/badge/Instagram-5A2890?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/joaopedromottin/">
+      <img src="https://img.shields.io/badge/LinkedIn-5A2890?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A2890&height=100&section=footer"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=5A2890&height=100&section=footer"
+  alt="Purple wave footer"
+/>
