@@ -18,12 +18,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaomottin&amp;theme=aura_dark&amp;title_color=5A2890&amp;bg_color=000712&amp;text_color=fffafa"
-    alt="GitHub profile details"
-  />
-</p>
 
 <details align="center">
   <summary><strong>Connect with me</strong></summary>
