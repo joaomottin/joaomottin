@@ -26,9 +26,6 @@
     <a href="mailto:joaomottin@proton.me">
       <img src="https://img.shields.io/badge/Email-5A2890?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.instagram.com/joaomottin_/">
-      <img src="https://img.shields.io/badge/Instagram-5A2890?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
     <a href="https://www.linkedin.com/in/joaopedromottin/">
       <img src="https://img.shields.io/badge/LinkedIn-5A2890?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
